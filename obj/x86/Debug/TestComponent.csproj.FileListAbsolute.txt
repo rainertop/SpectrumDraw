@@ -1,0 +1,9 @@
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\bin\Debug\TestComponent.exe
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\bin\Debug\TestComponent.pdb
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\obj\x86\Debug\TestComponent.Form1.resources
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\obj\x86\Debug\TestComponent.Properties.Resources.resources
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\obj\x86\Debug\TestComponent.exe
+C:\Users\michael\Desktop\GitHub\Test\TestComponent\TestComponent\obj\x86\Debug\TestComponent.pdb
