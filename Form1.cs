@@ -24,7 +24,7 @@ namespace TestComponent
 
             float delta = 0.1f;
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 1000; i++)
             {
                 SpectrumDraw.GAPoint fakeSP = new SpectrumDraw.GAPoint(i, (int)(80 * Math.Abs(Math.Sin(i * delta))));
 
