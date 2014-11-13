@@ -18,6 +18,7 @@ namespace TestComponent
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //设置第一个组件
             LinkedList<SpectrumDraw.GAPoint> spList = new LinkedList<SpectrumDraw.GAPoint>();
 
             LinkedList<SpectrumDraw.GAPoint> spList2 = new LinkedList<SpectrumDraw.GAPoint>();
